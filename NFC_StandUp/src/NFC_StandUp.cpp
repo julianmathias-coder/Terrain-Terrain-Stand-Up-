@@ -1,8 +1,7 @@
-/* 
- * Project myProject
- * Author: Your Name
- * Date: 
- * Line 142 in CNM IoT wan't change from int "%i" to "%li", since hueHue is a long integer. Should I change this in the IoT library?
+/* Project: NFC_standUp
+ * Author: Julian Mathias
+ * Date: 10-31-2024
+ * Line 142 in CNM IoT wan't change from int "%i" to "%li", since hueHue is a long integer. I will not change the library because it is not necessary for the Photon 2.
  */
 
 #include "Particle.h"
