@@ -55,8 +55,7 @@ const int BULB=4;
 const int MYWEMOFan=3; //fan
 const int MYWEMOLight=2; //table light
 
-void setup() {
-  
+  void setup() {
   Serial.begin(9600);
   waitFor(Serial.isConnected, 10000);
   Serial1.begin(9600);
@@ -94,7 +93,7 @@ void setup() {
   display.setTextSize(3);
   display.setTextColor(WHITE);
   display.setCursor(12,8);
-  display.printf(" Scan\n Below\n");
+  display.printf(" Scan\n  Now\n");
   display.display();
 
   pixel.begin();
