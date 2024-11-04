@@ -1,6 +1,7 @@
-# Break_Timer
+# Break Timer
 **IoT project to encourage movement**
 
+![Alt text](https://github.com/julianmathias-coder/Terrain-Terrain-Stand-Up-/blob/main/IMG_2999.png?raw=true)
 
 ## This Project:
 
