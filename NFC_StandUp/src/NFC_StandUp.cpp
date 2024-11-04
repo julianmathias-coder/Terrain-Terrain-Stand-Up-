@@ -50,7 +50,7 @@ SYSTEM_MODE(MANUAL);
 
 const int BULB=4;
 
-const int MYWEMOFan=3; //fan
+const int MYWEMOFan=1; //Fan
 const int MYWEMOLight=2; //Salt Lamp
 
 void setup() {
